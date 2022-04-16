@@ -30,9 +30,11 @@ p {
 }
 
 .thaoimg{
-	background-size: cover;
-  width: 100%;
-  background-repeat: no-repeat;
+    background-size: contain;
+    width: 100%;
+    height: 30%;
+    background-repeat: no-repeat;
+    background-image: url(thaoquau.jpg);
 }
 
 h1 {
